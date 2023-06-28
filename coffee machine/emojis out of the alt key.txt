@@ -1,0 +1,103 @@
+Here’s just a few of the characters you can type with the Alt key:
+
+Symbol
+
+Name
+
+Alt-code
+
+©
+
+Copyright symbol
+
+Alt+0169
+
+®
+
+Registered symbol
+
+Alt+0174
+
+™
+
+Trademark
+
+Alt+0153
+
+•
+
+List Dot
+
+Alt+0149
+
+§
+
+Section symbol
+
+Alt+0167
+
+†
+
+Dagger
+
+Alt+0134
+
+‡
+
+Double dagger
+
+Alt+0135
+
+–
+
+en-dash
+
+Alt+0150
+
+—
+
+em-dash
+
+Alt+0151
+
+¶
+
+Paragraph symbol (Pilcrow)
+
+Alt+0182
+
+¡
+
+Upside-down exclamation mark
+
+Alt+0161
+
+¿
+
+Upside-down question mark
+
+Alt+0191
+
+¢
+
+Cent sign
+
+Alt+0162
+
+£
+
+British Pound
+
+Alt+0163
+
+Є
+
+Euro currency
+
+Alt+0128
+
+¥
+
+Japanese Yen
+
+Alt+0165

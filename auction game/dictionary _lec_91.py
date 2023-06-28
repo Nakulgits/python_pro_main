@@ -83,5 +83,5 @@ a=["A","B","C"]
 b=["D","E","F"]
 z=dict(zip(a,b))
 print(z)
-z[c]=["G","H","I"]
+# z[c]=["G","H","I"]
 print(z)
